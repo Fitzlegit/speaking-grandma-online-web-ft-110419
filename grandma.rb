@@ -9,7 +9,6 @@ def speak_to_grandma(phrase)
   else 
     "HUH?! SPEAK UP, SONNY!"
   end
-  binding.pry
 end
 
     
